@@ -1,0 +1,19 @@
+{
+	"type": "Channels",
+	"items": [
+		{
+			"name": "Margaguna",
+			"playlist": "Playlist 1"			
+		},
+
+		{
+			"name": "Melawai",
+			"playlist": "Playlist 2"
+		},
+
+		{
+			"name": "Inner Circle",
+			"playlist": "Playlist 3"
+		}
+	]
+}

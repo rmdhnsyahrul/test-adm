@@ -1,0 +1,16 @@
+{
+	"type": "Channel",
+	"items":[ 
+			{
+				"name":"Channel1"
+			},
+			{
+				"name":"Channel2"
+			},
+			{
+				"name":"Channel3"
+			}
+		
+		]
+	
+}

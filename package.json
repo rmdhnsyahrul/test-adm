@@ -1,0 +1,27 @@
+{
+  "name": "adm-playlist-management",
+  "version": "1.0.0",
+  "description": "a web application that manage playlist on every channel. playlistcontain photo and or video. this app is an assignment for applicants in Alternative Media Group Company.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./bin/www",
+    "dev": "nodemon ./bin/www"
+  },
+  "dependencies": {
+    "bcryptjs": "*",
+    "body-parser": "*",
+    "cors": "*",
+    "express": "*",
+    "express-fileupload": "^0.4.0",
+    "gridfs-stream": "^1.1.1",
+    "jsonwebtoken": "*",
+    "mongoose": "*",
+    "mongoose-unique-validator": "^2.0.1",
+    "ngx-bootstrap": "^3.0.0",
+    "passport": "*",
+    "passport-jwt": "*"
+  },
+  "author": "rmdhn.syahrul2@gmail.com",
+  "license": "ISC"
+}

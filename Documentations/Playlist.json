@@ -1,0 +1,117 @@
+{
+	"type": "Playlists",
+	"items": [
+		{
+			"name": "Playlist A",
+			"schedule": {
+				"periods":[]
+			},
+			"items": [
+				{
+					"date": "2018-08-03",
+					"items": [
+						{
+							"url": "path/video-01.mp4",
+							"brand": "Brand1",
+							"category":"Category1",
+							"schedule": {
+								"days": [0, 6],
+								"dates": [25, 26, 27, 28, 29, 30, 31],
+								"times": ["06.50-07.00", "11.50-12.00"],
+								"periods": ["2018-08-03.2018-08-04", "2018-08-06.2018-08-07"]						
+							}
+						},
+						{
+							"url": "path/video-02.mp4"
+						},
+						{
+							"url": "path/video-03.mp4"
+						}
+	
+					]
+				},
+				{
+					"date": "2018-08-03",
+					"items": [
+						{
+							"url": "path/video-01.mp4",
+							"brand": "Brand2",
+							"category":"Category2",
+							"schedule": {
+								"days": [0, 6],
+								"dates": [25, 26, 27, 28, 29, 30, 31],
+								"times": ["06.50-07.00", "11.50-12.00"],
+								"periods": ["2018-08-03.2018-08-04", "2018-08-06.2018-08-07"]						
+							}
+						},
+						{
+							"url": "path/video-02.mp4"
+						},
+						{
+							"url": "path/video-03.mp4"
+						}
+	
+					]
+				}
+			]
+			
+		},
+
+
+		{
+			"name": "Playlist B",
+			"schedule": {
+				"periods":[]
+			},
+			"items": [
+				{
+					"date": "2018-08-03",
+					"items": [
+						{
+							"url": "path/video-01.mp4",
+							"brand": "Brand1",
+							"category":"Category1",
+							"schedule": {
+								"days": [0, 6],
+								"dates": [25, 26, 27, 28, 29, 30, 31],
+								"times": ["06.50-07.00", "11.50-12.00"],
+								"periods": ["2018-08-03.2018-08-04", "2018-08-06.2018-08-07"]						
+							}
+						},
+						{
+							"url": "path/video-02.mp4"
+						},
+						{
+							"url": "path/video-03.mp4"
+						}
+	
+					]
+				},
+				{
+					"date": "2018-08-03",
+					"items": [
+						{
+							"url": "path/video-01.mp4",
+							"brand": "Brand1",
+							"category":"Category1",
+							"schedule": {
+								"days": [0, 6],
+								"dates": [25, 26, 27, 28, 29, 30, 31],
+								"times": ["06.50-07.00", "11.50-12.00"],
+								"periods": ["2018-08-03.2018-08-04", "2018-08-06.2018-08-07"]						
+							}
+						},
+						{
+							"url": "path/video-02.mp4"
+						},
+						{
+							"url": "path/video-03.mp4"
+						}
+	
+					]
+				}
+			]
+			
+		}
+	]
+}

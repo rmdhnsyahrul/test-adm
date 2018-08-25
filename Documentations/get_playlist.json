@@ -1,0 +1,110 @@
+[
+    {
+        "schedule": {
+            "period": [
+                "2018-08-01",
+                "2018-08-31"
+            ]
+        },
+        "items": [
+            {
+                "schedule": {
+                    "days": [
+                        0,
+                        1
+                    ],
+                    "dates": [
+                        25,
+                        26
+                    ],
+                    "times": [
+                        "06.50-07.00",
+                        "11.50-12.00"
+                    ],
+                    "periods": [
+                        "2018-08-03.2018-08-04",
+                        "2018-08-06.2018-08-07"
+                    ]
+                },
+                "_id": "5b7d5f797967e606a452ca6e",
+                "items": {
+                    "categories": [
+                        {
+                            "_id": "5b791df0f119901bf85983d3",
+                            "name": "Category 3",
+                            "updated_at": "2018-08-19T07:36:16.555Z",
+                            "__v": 0
+                        },
+                        {
+                            "_id": "5b791df6f119901bf85983d4",
+                            "name": "Category 4",
+                            "updated_at": "2018-08-19T07:36:22.559Z",
+                            "__v": 0
+                        }
+                    ],
+                    "_id": "5b7ad619f53e9c1dc02043a7",
+                    "name": " Angular Video",
+                    "file_url": "http://localhost:3000/content/file/files_1534776856550.mp4",
+                    "brand": "Angular",
+                    "__v": 0
+                },
+                "__v": 0
+            },
+            {
+                "schedule": {
+                    "days": [
+                        2,
+                        3,
+                        4
+                    ],
+                    "dates": [
+                        27,
+                        28,
+                        29,
+                        30
+                    ],
+                    "times": [
+                        "06.50-07.00",
+                        "11.50-12.00"
+                    ],
+                    "periods": [
+                        "2018-08-03.2018-08-04",
+                        "2018-08-06.2018-08-07"
+                    ]
+                },
+                "_id": "5b7d5f797967e606a452ca6f",
+                "items": {
+                    "categories": [
+                        {
+                            "_id": "5b783c2888c7a221b8443e3f",
+                            "name": "Category 1",
+                            "updated_at": "2018-08-18T15:32:56.958Z",
+                            "__v": 0
+                        },
+                        {
+                            "_id": "5b791de9f119901bf85983d2",
+                            "name": "Category 2",
+                            "updated_at": "2018-08-19T07:36:09.960Z",
+                            "__v": 0
+                        },
+                        {
+                            "_id": "5b791df0f119901bf85983d3",
+                            "name": "Category 3",
+                            "updated_at": "2018-08-19T07:36:16.555Z",
+                            "__v": 0
+                        }
+                    ],
+                    "_id": "5b7b1dd7ccb081149c4658a0",
+                    "name": "Angular 2",
+                    "file_url": "http://localhost:3000/content/file/files_1534795223059.mp4",
+                    "brand": "Angular",
+                    "__v": 0
+                },
+                "__v": 0
+            }
+        ],
+        "_id": "5b7d5f797967e606a452ca6d",
+        "name": "Playlist A",
+        "__v": 0
+    }
+]
